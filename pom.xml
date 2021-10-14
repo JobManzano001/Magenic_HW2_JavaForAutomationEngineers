@@ -8,6 +8,8 @@
     <properties>
         <testng.version>7.1.0</testng.version>
         <surefire.plugin.version>3.0.0-M4</surefire.plugin.version>
+        <maven.compiler.source>1.15</maven.compiler.source>
+        <maven.compiler.target>1.15</maven.compiler.target>
     </properties>
 
     <dependencies>
